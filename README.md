@@ -22,19 +22,11 @@ For example:
 
 4. Distance(cost) between two neighboring states will be measure based on the move costs as given below
 
-Tile #1      | Tile #2                        |  Tile #3       
+Tile #1      | Tile #2 |  Tile #3       
 ------------ | ------------- | -------------
-right or left move à cost =2 | Content cell 2 | Content cell 2  
-up of down move à cost =1 | Content column 2  | Content column 2
-* Tile #1:
-right or left move à cost =2
-up of down move à cost =1
-Tile #2:
-right or left move à cost =1
-up of down move à cost =2
-Tile #3:
-right or left move à cost =3
-up of down move à cost =4
+right or left move -> cost =2 | right or left move -> cost =1 | right or left move -> cost =3  
+up of down move -> cost =1 | up of down move -> cost =2 | up of down move -> cost =4
+
 5.User will choose one of the searching strategies: uniform cost and A* search (use Manhattan distance
 as heuristics).
 6.The expansion will go on till 20th expanded node. The program will print out each expanded state and
