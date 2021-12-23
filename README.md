@@ -1,4 +1,4 @@
-# SE420
+# SE 420 - Artificial Intelligence and Expert Sys.
 
 
     Numaranızı isterseniz ekleyin.
@@ -9,4 +9,4 @@
 #### Ercan ACAR
 #### Cem ÖZCAN
 
-#### Advisor Senem Kumova Metin
+####  Senem Kumova Metin (Advisor) 
