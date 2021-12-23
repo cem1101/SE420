@@ -3,8 +3,10 @@
 
     Numaranızı isterseniz ekleyin.
     
-    AI Project 2021-2022:
 
+<div class="alert alert-block alert-info">
+<b>AI Project 2021-2022</b>
+</div>
 You will implement a 3x3 board game. The aim is reachingto the goal state where Tile #1, #2 and #3 are located on
 the board.
 
