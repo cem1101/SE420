@@ -1,7 +1,7 @@
 # SE 420 - Artificial Intelligence and Expert Sys.
 
 
-    
+        Numaranızı isterseniz ekleyin.
 
 
 AI Project 2021-2022
