@@ -21,12 +21,12 @@ For example:
 - 6th step: move Tile #3
 
 4. Distance(cost) between two neighboring states will be measure based on the move costs as given below
-    4. Tile #1:
-        right or left move à cost =2
-       up of down move à cost =1
-    4. Tile #2:
-       right or left move à cost =1
-       up of down move à cost =2
+    * Tile #1:
+right or left move à cost =2
+up of down move à cost =1
+Tile #2:
+right or left move à cost =1
+up of down move à cost =2
 Tile #3:
 right or left move à cost =3
 up of down move à cost =4
