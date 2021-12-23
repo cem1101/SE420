@@ -1,7 +1,6 @@
 # SE 420 - Artificial Intelligence and Expert Sys.
 
 
-    Numaranızı isterseniz ekleyin.
     
 
 
