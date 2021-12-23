@@ -4,14 +4,11 @@
     Numaranızı isterseniz ekleyin.
     
 
-<div class="alert alert-block alert-info">
-<b>AI Project 2021-2022</b>
-</div>
-You will implement a 3x3 board game. The aim is reachingto the goal state where Tile #1, #2 and #3 are located on
-the board.
+
+AI Project 2021-2022
 
 Rules of Game:
-1. The initial and goal states will be given by user
+1. The initial and goal states will be given by user.
 2. The tiles can be moved up, down, right, or left.
 3. The game will begin by the move of Tile #1 (ifrequired) and go on with the moves of other tiles inorder.
 
@@ -26,7 +23,7 @@ For example:
 4. Distance(cost) between two neighboring states will be measure based on the move costs as given below
     4. Tile #1:
         right or left move à cost =2
-        up of down move à cost =1
+       up of down move à cost =1
     4. Tile #2:
        right or left move à cost =1
        up of down move à cost =2
